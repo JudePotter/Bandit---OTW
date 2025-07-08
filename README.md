@@ -11,4 +11,6 @@ It's a great way to learn command line basics and Linux fundamentals through han
 
 No passwords are posted. This is purely for educational purposes and documentation of my own learning.
 
+They have been added into master not main.
+
 ---
